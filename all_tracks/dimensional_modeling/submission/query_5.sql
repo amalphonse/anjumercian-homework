@@ -1,5 +1,5 @@
 --query 5
---Incremental query for actors_scd
+--Incremental query for actors_scd. Merge into to update the previous year before procedding onto this year
 INSERT INTO anjumercian.actors_history_scd
 WITH
 last_season_scd AS (

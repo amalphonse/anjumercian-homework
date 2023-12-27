@@ -1,4 +1,4 @@
-Query 1
+#Query 1
 
 INSERT INTO anjumercian.fct_nba_game_details
 WITH

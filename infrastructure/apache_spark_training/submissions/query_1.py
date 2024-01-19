@@ -15,3 +15,9 @@ maps =  spark.read.option("header", "true") \
 medal_matches =  spark.read.option("header", "true") \
                         .option("inferSchema", "true") \
                         .csv("/home/iceberg/data/medals_matches_players.csv")
+
+matches.createOrReplaceTempView("matches")
+matchDetail.createOrReplaceTempView("match_details")
+medals.createOrReplaceTempView("medals")
+maps.createOrReplaceTempView("maps")
+medal_matches.createOrReplaceTempView("medal_matches")

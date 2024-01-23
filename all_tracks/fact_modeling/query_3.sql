@@ -11,17 +11,18 @@ yesterday AS (
   ),
   today AS (
     SELECT 
-w.user_id,
-browser_type,
-CAST(DATE_TRUNC('day', event_time) AS DATE) AS event_date
-
- FROM bootcamp.devices d
-JOIN bootcamp.web_events w on d.device_id=w.device_id
-    WHERE
-      DATE_TRUNC('day', event_time) = DATE('2023-01-02')
-    GROUP BY
-      user_id,
-      CAST(DATE_TRUNC('day', event_time) AS DATE)
+         w.user_id,
+         browser_type,
+         CAST(DATE_TRUNC('day', event_time) AS DATE) AS event_date
+          FROM bootcamp.devices d
+         JOIN bootcamp.web_events w 
+            on d.device_id=w.device_id
+             WHERE
+               DATE_TRUNC('day', event_time) = DATE('2023-01-02')
+             GROUP BY
+               user_id,
+               browser_type,
+               CAST(DATE_TRUNC('day', event_time) AS DATE)
   )
 
 SELECT

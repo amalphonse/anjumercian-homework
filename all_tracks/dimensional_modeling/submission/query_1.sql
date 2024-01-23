@@ -1,7 +1,7 @@
 #query 1
 CREATE TABLE anjumercian.actors (
    actor VARCHAR,
-   actorid VARCHAR,
+   actor_id VARCHAR,
    films ARRAY(
         ROW(
         film VARCHAR,

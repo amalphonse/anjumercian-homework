@@ -8,7 +8,7 @@ WITH
     FROM
       anjumercian.fct_nba_game_details
     WHERE
-      game_date = '2023-08-01'
+      game_date = '2007-04-29'
   ),
 today AS (
     SELECT
@@ -16,7 +16,7 @@ today AS (
     FROM
       anjumercian.fct_nba_game_details
     WHERE
-      game_date = '2023-08-01’'
+      game_date = '2007-04-30’'
   )
 SELECT
   COALESCE(t.game_id, y.game_id) AS game_id,

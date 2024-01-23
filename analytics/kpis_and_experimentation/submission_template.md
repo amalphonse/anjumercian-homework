@@ -1,7 +1,7 @@
 # Analytics Track KPIs and Experimentation Homework
 
-##User Story
-##Product: Spotify 
+## User Story
+## Product: Spotify 
 I have been using Spotify since 2017, before which I was using Apple Music, for which I was paying per song it was turning out to be expensive and was taking up storage. My husband introduced me to Spotify and put me into his membership that is how I first came to know about Spotify. It took me a while to move over from Apple Music because the songs I usually listen to, my regional, were not available on Spotify. Then Spotify improved more songs from my region became available, and I switched. 
 
 Currently, I am always on Spotify listening to music, both international songs and my regional songs there are more selections now, and podcast many of my favorite podcasters are there like Ali Abdaal, women of impact which I love. My most listened to app on my would be Spotify. The daily mixes are very useful to play my favorite songs while driving.

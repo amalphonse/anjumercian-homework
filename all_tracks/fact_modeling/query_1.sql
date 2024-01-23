@@ -1,4 +1,5 @@
-Query 1
+--Query 1
+--I am taking yesterday's data and oining it with todays data to de dupe.
 
 INSERT INTO anjumercian.fct_nba_game_details
 WITH

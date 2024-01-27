@@ -14,3 +14,22 @@ The project follows the following steps:
 - Step 4: Run ETL to Model the Data 
 - Step 5: Conclusion
 
+## Step 1: Scope the Project and gather the data.
+
+In this project, I will be gathering data regarding housing and crime rates and placing them into fact and dimensional tables accordion to my data model attached  below. And running queries like:
+How does the location affect the property rate?
+What are the different features of the home affecting property price?
+Property types available in particular postal code
+Crime rates across different cities
+Types of crime in different cities per state.
+This dashboard will be looking at the past 5 year data. 
+
+The technologies I will be using for this project are Pandas, Seaborn, Matplotlib, Google Collab Google Cloud for Storage, and Tableau Public to publish the dashboard. I am using these technologies because I am starting out on a small scale, so using Google Cloud Storage and Google Colab will be easy to handle and free. I am using Tableau Public which is also free. Pandas has great libraries for all the exploratory Data Analysis. Seaborn is a very good data visualization library that I am using within Colab to visualize my data and create charts. Images added .
+
+### Data Sources
+
+Crime data: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi
+Housing Data: https://www.car.org/marketdata/data
+The data sources I have chosed are government data sources why I selected these is because they are going to be the most legitimate data I can find, but also the problem is I cant have the latest data, I have to wait for them to upload the data.
+
+

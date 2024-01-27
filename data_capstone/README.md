@@ -30,6 +30,6 @@ The technologies I will be using for this project are Pandas, Seaborn, Matplotli
 
 Crime data: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi
 Housing Data: https://www.car.org/marketdata/data
-The data sources I have chosed are government data sources why I selected these is because they are going to be the most legitimate data I can find, but also the problem is I cant have the latest data, I have to wait for them to upload the data.
+The data sources I have chosen are government data sources; why I selected these is because they are going to be the most legitimate data I can find, but also the problem is I cant have the latest data, I have to wait for them to upload the data.
 
 

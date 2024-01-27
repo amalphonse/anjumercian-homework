@@ -39,3 +39,9 @@ I am using the ** Snowflake Data Model **, there is one fact table for the dashb
 ![Data Model](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_data_model.jpeg)
 
 
+## Step 4: The data Pipelines.
+
+I have attached the ETL steps taken for the [properties data](propertyDataAnalysis_NY_updated.ipynb) and the [crime data](crime_data_CA.ipynb). The crime data had clean data there was not much cleaning needed but had to transform to what the was required. 
+
+I chose the properties data for NY and crime data for CA, to showcase the two states.
+

@@ -32,4 +32,10 @@ Crime data: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi
 Housing Data: https://www.car.org/marketdata/data
 The data sources I have chosen are government data sources; why I selected these is because they are going to be the most legitimate data I can find, but also the problem is I cant have the latest data, I have to wait for them to upload the data.
 
+## Step 3: Data Model.
+
+I am using the ** Snowflake Data Model **, there is one fact table for the dashboard and there is another fact table table for the property details with it dimensional tables and another side there is another fact table for the crime data and dimensional details for the crime related details, I chose this model because I have plans to extend the data model to show homelessness data and rental data, it would be easier to add another fact and dimensional table and add another column to the centralized fact table. The architecture that way will be more flexible and have more granularity. 
+
+![Image Alt text](data_capstone/images/dashboard_data_model.jpeg "Dashboard Data Model"))
+
 

@@ -45,3 +45,22 @@ I have attached the ETL steps taken for the [properties data](propertyDataAnalys
 
 I chose the properties data for NY and crime data for CA, to showcase the two states.
 
+### Dashboard will look like this with the graphs.
+
+![Dashboard 1](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_1.png)
+
+![Dashboard 2](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_2.png)
+
+![Dashboard 3](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_3.png)
+
+![Dashboard 4]](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_4.png)
+
+
+## Conclusion
+I am planning on extending this dashb oard to include two more datasets with home lessness data and rental data for which I will be moving over to spark because Spark can handle 100x more data efficiently. 
+
+Also use Apache Flink to stream the data when it is available. First stream the data and store for batch processing. 
+
+Using airflow we can orchestrate the data pipelines to be ready for a 9am executive dashboard viewing.
+
+

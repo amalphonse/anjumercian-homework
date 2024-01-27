@@ -53,7 +53,7 @@ I chose the properties data for NY and crime data for CA, to showcase the two st
 
 ![Dashboard 3](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_3.png)
 
-![Dashboard 4]](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_4.png)
+![Dashboard 4](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/dashboard_4.png)
 
 
 ## Conclusion

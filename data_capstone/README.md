@@ -24,7 +24,7 @@ Crime rates across different cities
 Types of crime in different cities per state.
 This dashboard will be looking at the past 5 year data. 
 
-The technologies I will be using for this project are Pandas, Seaborn, Matplotlib, Google Collab Google Cloud for Storage, and Tableau Public to publish the dashboard. I am using these technologies because I am starting out on a small scale, so using Google Cloud Storage and Google Colab will be easy to handle and free. I am using Tableau Public which is also free. Pandas has great libraries for all the exploratory Data Analysis. Seaborn is a very good data visualization library that I am using within Colab to visualize my data and create charts. Images added .
+The technologies I will be using for this project are Pandas, Seaborn, Matplotlib, Google Collab Google Cloud for Storage, and Tableau Public to publish the dashboard. I am using these technologies because I am starting out on a small scale, so using Google Cloud Storage and Google Colab will be easy to handle and free. I am using Tableau Public which is also free. Pandas has great libraries for all the exploratory Data Analysis. Seaborn is a very good data visualization library that I am using within Colab to visualize my data and create charts. I am currently manually uplaoding the datasets to tableau public for dashboard. Images added .
 
 ### Data Sources
 

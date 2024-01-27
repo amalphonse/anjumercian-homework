@@ -63,4 +63,11 @@ Also use Apache Flink to stream the data when it is available. First stream the 
 
 Using airflow we can orchestrate the data pipelines to be ready for a 9am executive dashboard viewing.
 
+### Data Quality
+
+Crime data:
+
+![Data Quality](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/crime_data_data_quality_1.png)
+
+![Data Quality](https://github.com/amalphonse/anjumercian-homework/blob/anjumercian_capstone_proecject/data_capstone/images/Crime_data_quality_2.png)
 
